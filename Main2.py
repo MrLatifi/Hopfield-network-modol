@@ -1,6 +1,6 @@
-# hopfild modole
-# (Cp w) Mohammad hasan Latifi, IR
-# ------------------------------ Start --------------------------------
+# Hopfild modole
+# Mohammad Hasan Latifi (Ghoghnos Team/from Qom)
+
 import random
 import matplotlib.pyplot as plt
 import warnings
@@ -89,7 +89,6 @@ def GN(p1,vertex,w12,w13,w14,w23,w24,w34):
 		p1[3]=-1
 
 	print("h1: {}\th2: {}\th3: {}\th4: {}".format(h1,h2,h3,h4))
-	#print("Pattern in this level = "+str(p1)+" in t1\n")
 
 # the code for mohasebe Weight dar har marhale(taghyeerat)
 	# if int(p1[0]) == int(p1[1]):
@@ -156,4 +155,3 @@ def VE(E):
 
 if __name__=="__main__":
 	main()
-#---------------------------------end-------------------------------
