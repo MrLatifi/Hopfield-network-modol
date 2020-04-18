@@ -90,7 +90,7 @@ def GN(p1,vertex,w12,w13,w14,w23,w24,w34):
 
 	print("h1: {}\th2: {}\th3: {}\th4: {}".format(h1,h2,h3,h4))
 
-# the code for mohasebe Weight dar har marhale(taghyeerat)
+# the code for computing Weights in each level 
 	# if int(p1[0]) == int(p1[1]):
 	# 	w12+=1
 	# else:
